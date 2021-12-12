@@ -1,0 +1,1 @@
+Notebooks de la de tesis de grado'Desarrollo y evaluación de una metodología para la ubicación de usuarios de Twitter'. Se incluyen los principales archivos dentro de las carpetas 'creacion_sets', 'predicciones' y 'papers'. La totalidad de pruebas puede verse en la carpeta 'previos_desarrollos'
